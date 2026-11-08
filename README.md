@@ -26,16 +26,6 @@ I'm interested in Supply Chain Management and Business Analytics. I enjoy learni
 - Photography
 - Creative DIY
 
-## 🧁 Skills & Tools
-
-| Area | Tools / Skills |
-|---|---|
-| Data & Reporting | Microsoft Excel |
-| Business Intelligence | Power BI (Basic) |
-| Design & Presentation | Canva |
-| Data Analysis | Data Cleaning, Descriptive Statistics |
-| Collaboration | GitHub |
-
 ## 💗 Featured Projects
 
 ### 1. MIS 311 – Introduction to Business Analytics
