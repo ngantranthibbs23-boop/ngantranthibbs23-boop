@@ -17,14 +17,14 @@ Eastern International University (EIU)
 
 Hi! I'm a Business Administration student at **Eastern International University**, specializing in **Supply Chain Management**.
 
-I'm interested in Supply Chain Management, Business Analytics, and Quality Management. I enjoy learning new skills, exploring practical business problems, and improving myself through academic projects.
+I'm interested in Supply Chain Management and Business Analytics. I enjoy learning new skills, exploring practical business problems, and improving myself through academic projects.
 
 ## 🌷 Areas of Interest
 
 - Supply Chain Management
 - Business Analytics
-- Quality Management
-- Merchandise Planning
+- Photography
+- Creative DIY
 
 ## 🧁 Skills & Tools
 
@@ -58,7 +58,6 @@ Coursework and learning materials about quality management and problem-solving m
 
 - Supply Chain Planning
 - Business Analytics
-- Data Analysis
 - Chinese Language
 
 ## ☁️ Connect With Me
