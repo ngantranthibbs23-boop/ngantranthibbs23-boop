@@ -21,6 +21,7 @@ Eastern International University (EIU)
 [View Repository](https://github.com/ngantranthibbs23-boop/SCLM-449-Quality-Problem-Solving)
 
 
+
 ### 🌱 Currently Learning
 
 <table>
@@ -29,30 +30,29 @@ Eastern International University (EIU)
       <h2>📦</h2>
       <b>Supply Chain</b>
       <br/>
-      <sub>Planning</sub>
     </td>
     <td align="center" width="33%">
       <h2>📊</h2>
       <b>Data Analysis</b>
       <br/>
-      <sub>Analytical Skills</sub>
     </td>
     <td align="center" width="33%">
       <h2>🀄</h2>
       <b>Chinese</b>
       <br/>
-      <sub>Language Learning</sub>
     </td>
   </tr>
 </table>
 
+
+
 ### 🌷 Areas of Interest
 
-<p>
-  <img src="https://img.shields.io/badge/Supply_Chain_Management-F8BBD0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Analytics-FCE4EC?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photography-F4A6C1?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/DIY-FADADD?style=flat-square&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Supply%20Chain%20Management-F8BBD0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-FCE4EC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality%20Management-F4A6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merchandise%20Planning-FADADD?style=flat-square" />
 </p>
 ---
 
