@@ -7,7 +7,6 @@
 
 Eastern International University (EIU)
 
-*Learning, growing, and exploring new opportunities in Supply Chain.*
 
 </div>
 
