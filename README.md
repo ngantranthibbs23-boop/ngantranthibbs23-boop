@@ -22,6 +22,8 @@ Eastern International University (EIU)
 
 
 
+
+
 ### 🌱 Currently Learning
 
 <table>
@@ -46,14 +48,9 @@ Eastern International University (EIU)
 
 
 
-### 🌷 Areas of Interest
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Supply%20Chain%20Management-F8BBD0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business%20Analytics-FCE4EC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Quality%20Management-F4A6C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Merchandise%20Planning-FADADD?style=flat-square" />
-</p>
+### 🌷 Hobbies
+📚 📸 🏸
 ---
 
 <div align="center">
