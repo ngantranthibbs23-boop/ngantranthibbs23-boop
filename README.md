@@ -21,7 +21,7 @@ Eastern International University (EIU)
 [View Repository](https://github.com/ngantranthibbs23-boop/SCLM-449-Quality-Problem-Solving)
 
 
-
+<div align="center">
 
 
 ### 🌱 Currently Learning
@@ -47,7 +47,7 @@ Eastern International University (EIU)
 </table>
 
 
-
+<div align="center">
 
 ### 🌷 Hobbies
 📚 📸 🏸
