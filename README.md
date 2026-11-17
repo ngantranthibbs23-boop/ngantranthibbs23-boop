@@ -17,10 +17,12 @@ Eastern International University (EIU)
 ### 1. MIS 311 – Introduction to Business Analytics
 [View Repository](https://github.com/ngantranthibbs23-boop/MIS-311)
 
-### 2. SCLM 449 – Quality Problem Solving
-[View Repository](https://github.com/ngantranthibbs23-boop/SCLM-449-Quality-Problem-Solving)
+### 2. SCLM 429 – Transportation and Logistics Management
+**Mekong KVD – Supply Chain Network Design Project**
 
+Developed a group project focusing on logistics network design, transportation analysis, D2C strategy, and material handling solutions.
 
+[View Full Project Portfolio](https://github.com/ngantranthibbs23-boop/SCLM-429-Mekong-KVD) 
 ---
 
 
