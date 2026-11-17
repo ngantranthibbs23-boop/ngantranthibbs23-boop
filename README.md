@@ -19,10 +19,7 @@ Eastern International University (EIU)
 
 ### 2. SCLM 429 – Transportation and Logistics Management
 **Mekong KVD – Supply Chain Network Design Project**
-
-Developed a group project focusing on logistics network design, transportation analysis, D2C strategy, and material handling solutions.
-
-*[View Full Project Portfolio](https://github.com/ngantranthibbs23-boop/SCLM-429-Mekong-KVD)
+[View Full Project Portfolio](https://github.com/ngantranthibbs23-boop/SCLM-429-Mekong-KVD)
 ---
 
 
